@@ -34,4 +34,4 @@
 (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/fufcp077) (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/gltl4ney)
 
 
-საბოლოოდ, საუკეთესო მოდელი გამოდგა მე-5 იტერაციის ექსპერიმენტი, რომელსაც 0.64/0.61 სიზუსტე აქვს. (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/65qgarhf)
+საბოლოოდ, საუკეთესო მოდელი გამოდგა მე-5 იტერაციის ექსპერიმენტი, რომელსაც 0.64/0.61 სიზუსტე აქვს და ტესტ სეტზე 60%იანი accuracy აჩვენა. (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/65qgarhf)
