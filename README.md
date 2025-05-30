@@ -32,3 +32,6 @@
 
 8. საბოლოოდ ვცადე მონაცემთა პრეპროცესინგის მიდგომის ცვლილება: ჩავხედე confusion matrix-ს და უფრო აგრესიული აფსემპლინგი გავუკეთე იმ კლასებს, რომლებზეც მოდელს სუსტი პერფორმანსი ჰქონდა, მაგრამ ამ მიდგომით მოდელი 0.61/0.58 accuracy-ზე გაჩერდა.
 (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/fufcp077) (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/gltl4ney)
+
+
+საბოლოოდ, საუკეთესო მოდელი გამოდგა მე-5 იტერაციის ექსპერიმენტი, რომელსაც 0.64/0.61 სიზუსტე აქვს. (https://wandb.ai/dimna21-free-university-of-tbilisi-/ML_Assignment4/runs/65qgarhf)
